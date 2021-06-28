@@ -36,7 +36,7 @@ This dataset contains 28 variables. Most are self-explanatory.
 | 28  | pos_rate_perc_avg  | Positivity rate percentage (7 day rolling average)                                  |
 
 
-Column 1 to 23 are Twitter data, which the Tweets are retrieved from Health DG [@DGHisham] (https://twitter.com/DGHisham) timeline with Twitter API. Data wrangling done in Python/Pandas, extracted numerical values with Regular Expression (RegEx).
+Column 1 to 23 are Twitter data, which the Tweets are retrieved from Health DG [@DGHisham](https://twitter.com/DGHisham) timeline with Twitter API. Data wrangling done in Python/Pandas, extracted numerical values with Regular Expression (RegEx).
 
 Column 24 are data transcribed from MOH COVID-19 website. Specifically, the first image under TABURAN KES section in each Situasi Terkini daily page of http://covid-19.moh.gov.my/terkini
 
