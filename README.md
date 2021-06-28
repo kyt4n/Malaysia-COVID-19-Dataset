@@ -2,7 +2,6 @@
 A free, publicly available Malaysia COVID-19 dataset\
 \
 \
-\
 This dataset contains 28 variables. Most are self-explanatory.
 
 | No. | Variable           | Description                                                                         |
