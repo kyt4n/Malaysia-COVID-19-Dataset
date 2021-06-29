@@ -2,7 +2,8 @@
 A free, publicly available Malaysia COVID-19 dataset\
 \
 \
-This dataset contains 28 variables, detailed in data description.csv
+### Description
+This dataset contains 28 variables, described in data description.csv
 
 Column 1 to 23 are Twitter data, which the Tweets are retrieved from Health DG [@DGHisham](https://twitter.com/DGHisham) timeline with Twitter API. Data wrangling done in Python/Pandas, extracted numerical values with Regular Expression (RegEx).
 
