@@ -1,7 +1,7 @@
 ## Malaysia COVID-19 Dataset
 A free, publicly available Malaysia COVID-19 dataset\
 \
-\
+
 ### Description
 This dataset contains 28 variables, described in data description.csv
 
