@@ -12,7 +12,7 @@ Column 24 are data transcribed from MOH COVID-19 website. Specifically, the firs
 Column 25 to 28 are calculated data, where 
 * ['people_tested'] = current row of ['cum_people_tested'] - the previous row
 * ['case_avg'] = average of last 7 rows of [cases]
-* ['pos_rate_perc'] = ['case]'/['people_tested'] * 100
+* ['pos_rate_perc'] = ['case']/['people_tested'] * 100
 * ['pos_rate_perc_avg'] = average of last 7 rows of [pos_rate_perc]
 
 This dataset is also available at Kaggle. [link](https://www.kaggle.com/yeanzc/malaysia-covid19-dataset)
