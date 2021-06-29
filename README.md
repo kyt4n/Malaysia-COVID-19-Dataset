@@ -19,5 +19,6 @@ Column 25 to 28 are calculated data, where
 ### Download
 This dataset is also available at Kaggle [link](https://www.kaggle.com/yeanzc/malaysia-covid19-dataset).
 
-## License
+### License
+This Malaysia COVID-19 Dataset is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://opendatacommons.org/licenses/pddl/1.0/
 
