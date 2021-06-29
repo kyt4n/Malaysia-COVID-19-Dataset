@@ -6,7 +6,7 @@ A free, publicly available Malaysia COVID-19 dataset
 This dataset contains 28 variables, described in [data description.csv](https://github.com/kyt4n/Malaysia-COVID-19-Dataset/blob/main/data%20description.csv)
 
 ### Data Sources
-Column 1 to 22 are Twitter data, which the Tweets are retrieved from Health DG [@DGHisham](https://twitter.com/DGHisham) timeline with Twitter API. [A typical covid situation update Tweet](https://twitter.com/DGHisham/status/1379730335328444416) is written in a relatively fixed format. Data wrangling are done in Python/Pandas, numerical values extracted with Regular Expression (RegEx). Missing data are added manually from Desk of DG ([kpkesihatan](https://kpkesihatan.com/)).
+Column 1 to 22 are Twitter data, which the Tweets are retrieved from Health DG [@DGHisham](https://twitter.com/DGHisham) timeline with Twitter API. [A typical COVID-19 situation update Tweet](https://twitter.com/DGHisham/status/1379730335328444416) is written in a relatively fixed format. Data wrangling are done in Python/Pandas, numerical values extracted with Regular Expression (RegEx). Missing data are added manually from Desk of DG ([kpkesihatan](https://kpkesihatan.com/)).
 
 Column 23 is my own written remark regarding the Tweet status/content.
 
