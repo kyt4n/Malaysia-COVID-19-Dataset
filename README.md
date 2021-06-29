@@ -15,7 +15,7 @@ Column 25 to 28 are calculated data, where
 * ['pos_rate_perc'] = ['case']/['people_tested'] * 100
 * ['pos_rate_perc_avg'] = average of last 7 rows of ['pos_rate_perc']
 
-This dataset is also available at Kaggle. [Link here](https://www.kaggle.com/yeanzc/malaysia-covid19-dataset)
+This dataset is also available at Kaggle [link](https://www.kaggle.com/yeanzc/malaysia-covid19-dataset).
 
 ## License
 
