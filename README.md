@@ -1,5 +1,5 @@
 ## Malaysia COVID-19 Dataset
-A free, publicly available Malaysia COVID-19 dataset\
+A free, publicly available Malaysia COVID-19 dataset
 
 
 ### Data Description
