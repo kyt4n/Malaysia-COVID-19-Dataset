@@ -10,7 +10,7 @@ Column 1 to 22 are Twitter data, which the Tweets are retrieved from Health DG [
 
 Column 23 ['remark'] is my own written remark regarding the Tweet status/content.
 
-Column 24 ['cum_people_tested'] are data transcribed from MOH COVID-19 website. Specifically, the first image under TABURAN KES section in each Situasi Terkini daily webpage of http://covid-19.moh.gov.my/terkini. If missing, the data from [CPRC KKM Telegram](https://t.me/s/cprckkm) or [KKM Facebook Live video](https://www.facebook.com/pg/kementeriankesihatanmalaysia/videos/) is used. Data in this column, dated from 1 March 2020 to 11 Feb 2021, are from [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data), their data collection method as stated [here](https://ourworldindata.org/coronavirus-testing#malaysia). 
+Column 24 ['cum_people_tested'] are data transcribed from MOH COVID-19 website. Specifically, the first image under TABURAN KES section in each Situasi Terkini daily webpage of http://covid-19.moh.gov.my/terkini. If missing, the image from [CPRC KKM Telegram](https://t.me/s/cprckkm) or [KKM Facebook Live video](https://www.facebook.com/pg/kementeriankesihatanmalaysia/videos/) is used. Data in this column, dated from 1 March 2020 to 11 Feb 2021, are from [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data), their data collection method as stated [here](https://ourworldindata.org/coronavirus-testing#malaysia). 
 
 Column 25 to 28 are calculated data, where 
 * ['people_tested'] = current row of ['cum_people_tested'] - the previous row
