@@ -1,4 +1,4 @@
-date,recovered,cum_recovered,cum_recovered_percent,case,cum_case,case_active,case_local,case_local_wn,case_local_bwn,case_import,case_import_wn,case_import_bwn,death,death_wn,death_bwn,cum_death,cum_death_percent,icu,intubated,tweet_id,link,remark,cum_people_tested,people_tested,case_avg,pos_rate_perc,pos_rate_perc_avg
+date,recovered,cum_recovered,cum_recovered_percent,case,cum_case,case_active,case_local,case_local_wn,case_local_bwn,case_import,case_import_wn,case_import_bwn,death,death_wn,death_bwn,cum_death,cum_death_percent,icu,intubated,tweet_id,link,remark,cum_people_tested,people_tested,case_avg,pos_rate,pos_rate_avg
 1/3/2020,0,22,75.86,4,29,7,,,,,,,0,0,0,0,0,0,0,,,,1,,,,
 2/3/2020,0,22,75.86,0,29,7,,,,,,,0,0,0,0,0,0,0,,,,1.4,,"1,739",,
 3/3/2020,0,22,61.11,7,36,14,,,,,,,0,0,0,0,0,0,0,,,,2.9,,,,
