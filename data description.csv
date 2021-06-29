@@ -25,5 +25,5 @@ No.,Variable,Description
 24,cum_people_tested,Cumulative people tested
 25,people_tested,Daily people tested
 26,case_avg,Number of new cases (7 day rolling average)
-27,pos_rate_perc,"Daily positivity rate, in percentage"
-28,pos_rate_perc_avg,Positivity rate percentage (7 day rolling average)
+27,pos_rate,Daily positivity rate (%)
+28,pos_rate_avg,Positivity rate (7 day rolling average)
