@@ -21,7 +21,7 @@ Column 25 to 28 are calculated data, where
 ### Download
 This dataset is also available at Kaggle [link](https://www.kaggle.com/yeanzc/malaysia-covid19-dataset).
 
-### why this dataset exist
+### Why this dataset exist
 Ministry of Health (MOH) Malaysia does not provide the COVID-19 public health data in any easily accessible format. They only provide the raw numbers and text as is, along with infographics that are hardly informative. This work sets to fill the gap.
 
 ### License
