@@ -1,9 +1,6 @@
 ## Malaysia COVID-19 Dataset
 A free, publicly available Malaysia COVID-19 dataset
 
-### Why this dataset exist
-Ministry of Health (MOH) Malaysia does not provide the COVID-19 public health data in any easily accessible format. They only provide the raw numbers and text as is, along with infographics that are hardly informative. This work sets to fill the gap.
-
 ### Data Description
 This dataset contains 28 variables, described in [data description.csv](https://github.com/kyt4n/Malaysia-COVID-19-Dataset/blob/main/data%20description.csv)
 
@@ -22,6 +19,9 @@ Column 25 to 28 are calculated data, where
 
 ### Download
 This dataset is also available at Kaggle [link](https://www.kaggle.com/yeanzc/malaysia-covid19-dataset).
+
+### Why this dataset exist
+Ministry of Health (MOH) Malaysia does not provide the COVID-19 public health data in any easily accessible format. They only provide the raw numbers and text as is, along with infographics that are hardly informative. This work sets to fill the gap.
 
 ### License
 This Malaysia COVID-19 Dataset is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://opendatacommons.org/licenses/pddl/1.0/
