@@ -21,7 +21,7 @@ No.,Variable,Description
 20,intubated,Number of patients in ICU who are intubated
 21,tweet_id,Tweet ID of the Tweet
 22,link,t.co shorten URL of the Tweet
-23,remark,brief remark about the Tweet cotent/status or other data
+23,remark,brief remark about the Tweet content/status or other data
 24,cumul_people_tested,Cumulative people tested
 25,people_tested,Daily people tested
 26,case_avg,Number of new cases (7 day rolling average)
