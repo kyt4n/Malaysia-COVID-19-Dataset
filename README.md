@@ -9,10 +9,10 @@ Column 1 to 22 are Twitter data, which the Tweets are retrieved from Health DG [
 
 Column 23 ['remark'] is my own written remark regarding the Tweet status/content or other data.
 
-Column 24 ['cum_people_tested'] data is transcribed from an image on MOH COVID-19 website. Specifically, the [first image](http://covid-19.moh.gov.my/user/pages/02.terkini/01.2021/06.06/situasi-terkini-covid-19-di-malaysia-27062021/taburankes-all.jpg) under TABURAN KES section in each Situasi Terkini daily webpage of http://covid-19.moh.gov.my/terkini. If missing, the image from [CPRC KKM Telegram](https://t.me/s/cprckkm) or [KKM Facebook Live video](https://www.facebook.com/pg/kementeriankesihatanmalaysia/videos/) is used. Data in this column, dated from 1 March 2020 to 11 Feb 2021, are from [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data), their data collection method as stated [here](https://ourworldindata.org/coronavirus-testing#malaysia). 
+Column 24 ['cumul_people_tested'] data is transcribed from an image on MOH COVID-19 website. Specifically, the [first image](http://covid-19.moh.gov.my/user/pages/02.terkini/01.2021/06.06/situasi-terkini-covid-19-di-malaysia-27062021/taburankes-all.jpg) under TABURAN KES section in each Situasi Terkini daily webpage of http://covid-19.moh.gov.my/terkini. If missing, the image from [CPRC KKM Telegram](https://t.me/s/cprckkm) or [KKM Facebook Live video](https://www.facebook.com/pg/kementeriankesihatanmalaysia/videos/) is used. Data in this column, dated from 1 March 2020 to 11 Feb 2021, are from [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data), their data collection method as stated [here](https://ourworldindata.org/coronavirus-testing#malaysia). 
 
 Column 25 to 28 are calculated data, where 
-* ['people_tested'] = current row of ['cum_people_tested'] - the previous row
+* ['people_tested'] = current row of ['cumul_people_tested'] - the previous row
 * ['case_avg'] = average of last 7 rows of [cases]
 * ['pos_rate'] = ['case']/['people_tested'] * 100
 * ['pos_rate_avg'] = average of last 7 rows of ['pos_rate']
