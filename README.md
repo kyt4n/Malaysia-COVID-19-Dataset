@@ -29,6 +29,4 @@ Ministry of Health (MOH) Malaysia does not provide the COVID-19 public health da
 ### Visualization on Tableau Public
 https://public.tableau.com/app/profile/tanky/viz/MalaysiaCovid-19Visualization/Overview
 
-### License
-This Malaysia COVID-19 Dataset is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://opendatacommons.org/licenses/pddl/1.0/
 
