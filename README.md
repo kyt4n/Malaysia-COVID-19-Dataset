@@ -23,12 +23,11 @@ This dataset is also available at Kaggle [link](https://www.kaggle.com/yeanzc/ma
 ### Guide on how to create this
 * [Part 1 (Intro and Problem Statement)](https://kyle-tan.medium.com/malaysia-covid-19-dataset-creation-and-visualization-part-1-d2ca8b1f4c60?sk=56407b7afb3d41a35d7fbe287a73415a)
 * [Part 2 (Workflow and Implementation)](https://kyle-tan.medium.com/malaysia-covid-19-dataset-creation-and-visualization-part-2-e65dbd9d856a?sk=150fdc9bc7338e78b7cbe13e50cc3630)
-* Part 3 (Data visualization with Tableau and Dashboard Publication)
+* Part 3 (Data Visualization with Tableau and Dashboard Publication)
 
 ### Why this dataset exist?
 Ministry of Health (MOH) Malaysia does not provide the COVID-19 public health data in any easily accessible format. They only provide the raw numbers and text as is, along with infographics that are hardly informative. 
 
-### Visualization on Tableau Public
-https://public.tableau.com/app/profile/tanky/viz/MalaysiaCovid-19Visualization/Overview
+### [Visualization on Tableau Public](https://public.tableau.com/app/profile/tanky/viz/MalaysiaCovid-19Visualization/Overview)
 
 
