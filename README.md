@@ -28,6 +28,6 @@ This dataset is also available at Kaggle [link](https://www.kaggle.com/yeanzc/ma
 ### Why this dataset exist?
 Ministry of Health (MOH) Malaysia does not provide the COVID-19 public health data in any easily accessible format. They only provide the raw numbers and text as is, along with infographics that are hardly informative. 
 
-### [Visualization on Tableau Public](https://public.tableau.com/app/profile/tanky/viz/MalaysiaCovid-19Visualization/Overview)
+### Visualization on [Tableau Public](https://public.tableau.com/app/profile/tanky/viz/MalaysiaCovid-19Visualization/Overview)
 
 
